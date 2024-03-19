@@ -14,7 +14,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="https://real-pea-coat-elk.cyclic.app";
+var hostURL="https://gray-alert-duckling.cyclic.app";
 //TOGGLE for Shorters
 var use1pt=false;
 
